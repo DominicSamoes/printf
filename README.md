@@ -62,12 +62,12 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [5. Nothing in fine print is ever good news](./write_funcs.c)
 * Use a local buffer of 1024 chars in order to call write as little as possible.
 
-### [7. My weakness is wearing too much leopard print](./print_custom.c)
+### [6. My weakness is wearing too much leopard print](./print_custom.c)
 * Handle the following custom conversion specifier:
   - S : prints the string
   - Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: \x, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)
 
-### [6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print](./print_address.c)
+### [7. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print](./print_address.c)
 * Handle the following conversion specifier:
   - p : int input is converted to a pointer address
 
@@ -87,6 +87,23 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### [11. The negative is the equivalent of the composer's score, and the print the performance]
 * Handle the precision for non-custom conversion specifiers.
+
+### [12. It's depressing when you're still around and your albums are out of print]
+* Handle the 0 flag character for non-custom conversion specifiers.
+
+### [13. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection]
+* Handle the - flag character for non-custom conversion specifiers.
+
+### [14. Print is the sharpest and the strongest weapon of our party](./print_custom.c)
+* Handle the following custom conversion specifier:
+  - r : prints the reversed string
+
+### [15. The flood of print has turned reading into a process of gulping rather than savoring](./print_custom.c)
+* Handle the following custom conversion specifier:
+  - R : prints the rot13'ed string
+
+### [16. * ]
+* All the above options work well together.
 
 ---
 
