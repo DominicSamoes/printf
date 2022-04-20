@@ -40,8 +40,15 @@ These are all the tasks of this project, the ones that are completed link to the
   - c : converts input into a character
   - s : converts input into a string
 
+### [1. Education is when you read the fine print. Experience is what you get if you don't](./print_nums.c)
+* Handle the following conversion specifiers:
+  - d : converts input into a base 10 integer
+  - i : converts input into an integer
+
+### [2. Just because it's in print doesn't mean it's the gospel](./man_3_printf)
+* Create a man page for your function
+
 ---
 
 ### Authors
 * **Dominic Samo** - [dominicsamogmail.com](https://github.com/DominicSamoes)
-* **Abakar Mahamat Mallah** - [bokormallaimy@gmail.com](https://github.com/)
