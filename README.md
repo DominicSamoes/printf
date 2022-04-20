@@ -85,6 +85,9 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [10. Print some money and give it to us for the rain forests]
 * Handle the field width for non-custom conversion specifiers.
 
+### [11. The negative is the equivalent of the composer's score, and the print the performance]
+* Handle the precision for non-custom conversion specifiers.
+
 ---
 
 ### Authors
