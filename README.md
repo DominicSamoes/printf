@@ -48,6 +48,10 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [2. Just because it's in print doesn't mean it's the gospel](./man_3_printf)
 * Create a man page for your function
 
+### [3. With a face like mine, I do better in print](./print_bases.c)
+* Handle the following conversion specifiers:
+  - b : the unsigned int argument is converted to binary
+
 ---
 
 ### Authors
